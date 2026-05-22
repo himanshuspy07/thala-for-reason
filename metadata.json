@@ -1,0 +1,6 @@
+{
+  "name": "Thala For A Reason",
+  "description": "An addictive, modern MS Dhoni meme theme calculator! Enter numbers or text to reveal funny reasons why everything adds up to jersey number 7 with full-screen cinematic celebrations, animations, sound beats, local persistence of high scores, and shareable meme cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
